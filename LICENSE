@@ -1,5 +1,19 @@
 MIT License
 
+---
+
+#### 4. **Steps to Add Files**
+1. Place simulation data in the `data/` folder.
+2. Upload MATLAB scripts to the `scripts/` folder.
+3. Include Jupyter notebooks for analysis in the `notebooks/` folder.
+4. Save reports and presentations in the `docs/` folder.
+5. Add generated visualizations to the `visualizations/` folder.
+
+---
+
+This README provides a comprehensive overview of your MATLAB project, emphasizing both the scientific and computational aspects. 
+
+
 Copyright (c) 2025 balajisai121
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
