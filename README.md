@@ -1,4 +1,4 @@
-# laser-powder-bed-fusion
+# Laser Powder Bed Fusion (L-PBF) process for Nickel Alloy 625
 A MATLAB-based simulation of thermal fields and melt pool dynamics during Laser Powder Bed Fusion (L-PBF) of Inconel 625. Includes transient thermal analysis, Gaussian heat source modeling, and experimental validation.
 
 # Laser Powder Bed Fusion Simulation
